@@ -6,7 +6,6 @@ const Login = () => {
   return (
     <div className="app-container relative">
       <Header />
-
       <section className="bg-gray-200 h-screen">
         <div className="flex flex-col items-center justify-center px-6 py-8 mx-auto h-full lg:py-0">
           <div className="w-full rounded-lg shadow border md:mt-0 sm:max-w-md xl:p-0  bg-gray-900">
